@@ -1,0 +1,5 @@
+[
+  { "searchTerm": "Blue Top", "expectedName": "Blue Top" },
+  { "searchTerm": "Men Tshirt", "expectedName": "Men Tshirt" },
+  { "searchTerm": "Sleeveless Dress", "expectedName": "Sleeveless Dress" }
+]
